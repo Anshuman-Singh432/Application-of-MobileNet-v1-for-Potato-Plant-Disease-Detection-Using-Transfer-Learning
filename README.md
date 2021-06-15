@@ -1,0 +1,1 @@
+# Application-of-MobileNet-v1-for-Potato-Plant-Disease-Detection-Using-Transfer-Learning
